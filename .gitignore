@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+cowrie-env/
+venv/
+.env
+*.log
+var/log/
+
