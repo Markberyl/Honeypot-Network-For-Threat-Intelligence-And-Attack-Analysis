@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 *.db
 *.sqlite3
+*.mmdb
 cowrie-env/
 venv/
 .env
